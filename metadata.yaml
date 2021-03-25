@@ -1,11 +1,16 @@
 _repo: Twenty-Years-on-Horseback-or-Itinerating-in-West-Virginia_64765
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64765-h/images/cover.jpg
 creator:
   author:
     agent_name: Weekley, W. M. (William Marion)
     gutenberg_agent_id: '53042'
     url: http://www.gutenberg.org/2009/agents/53042
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64765#Twenty-Years-on-Horseback-or-Itinerating-in-West-Virginia
 gutenberg_issued: '2021-03-09'
 gutenberg_type: Text
 identifiers:
